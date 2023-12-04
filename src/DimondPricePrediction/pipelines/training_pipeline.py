@@ -1,3 +1,7 @@
+import sys
+sys.path.append(r'E:\ineuron_2023\resources_notes\final_diamond_project\fsdsmendtoend')
+
+
 from src.DimondPricePrediction.components.data_ingestion import DataIngestion
 
 from src.DimondPricePrediction.components.data_transformation import DataTransformation

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/fsdsmendtoend/mlruns/0/ccca31f123c94004ab94954fea3e6fe3/artifacts
+end_time: 1701697415327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccca31f123c94004ab94954fea3e6fe3
+run_name: righteous-grouse-850
+run_uuid: ccca31f123c94004ab94954fea3e6fe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701697406043
+status: 3
+tags: []
+user_id: Komal
